@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CabSenseApp</string>
+    <string name="adv_device_name">cabsense</string>
+    <string name="locationAndServices_uuid">00001819-0000-1000-8000-00805F9B34FB</string>
+    <string name="latitude_longitude_uuid">00002A67-0000-1000-8000-00805F9B34FB</string>
+    <string name="cabsense_service_uuid">82247884-9d1a-4455-b699-87eee4560811</string>
+    <string name="cabsense_status_uuid">e90af018-6da4-46d6-a9ec-5641e9cbfc43</string>
+    <string name="cabsense_notifications_uuid">1783b17b-9717-4bc2-b880-f623edc28c77</string>
+</resources>
